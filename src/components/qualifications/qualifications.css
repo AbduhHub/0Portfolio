@@ -18,6 +18,7 @@
   font-family: Poppins;
   text-decoration: overline;
   color: #16d25ea8; /* Green color for title */
+  cursor: pointer;
 }
 
 .qualification-container {
@@ -52,5 +53,6 @@
 }
 
 .qualification-icon:hover {
+  cursor: pointer;
   filter: none;
 }
