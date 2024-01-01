@@ -1,0 +1,56 @@
+/* Qualifications.css */
+
+.qualifications-section {
+  margin-top: 50px;
+  text-align: center;
+  align-items: center;
+}
+
+.section-title {
+  /* font-size: 2.5rem; */
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-family: Poppins;
+  text-decoration: overline;
+  color: #16d25ea8; /* Green color for title */
+}
+
+.qualification-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-radius: 30px;
+  border: 2px solid rgba(255, 255, 255, 0.26);
+}
+
+.qualification-card {
+  /* color: #ecf0f1; */
+  /* background-color: rgba(131, 131, 131, 0.568); */
+  padding: 20px;
+  padding-inline: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  border: white;
+  transition: transform 0.3s ease-in-out;
+}
+
+.qualification-card:hover {
+  /* background-color: rgba(255, 255, 255, 0.096); */
+  transform: scale(1);
+}
+
+.qualification-icon {
+  filter: grayscale(100%);
+  max-height: 60px;
+  /* height: 60px; */
+  /* margin-bottom: 1px; */
+}
+
+.qualification-icon:hover {
+  filter: none;
+}
