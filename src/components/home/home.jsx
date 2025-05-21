@@ -36,9 +36,9 @@ function Home() {
       <h2>
         <div className="about">About Me</div> <br />
         <p>
-          <span className="name">Ahmed Abdullah</span> - A 19-year-old
+          <span className="name">Abdullah</span> - A 20-year-old
           enthusiast diving into the world of web development. Currently
-          pursuing my 2nd year in Computer Science Engineering at Sharnbasva
+          pursuing my 3rd year in Computer Science Engineering at Sharnbasva
           University, Gulbarga.
           <br /> Ever since I dipped my toes into the world of coding, I've been
           fascinated by the limitless possibilities of the web. I am currently
